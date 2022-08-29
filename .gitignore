@@ -1,0 +1,6 @@
+.idea/
+db/data/
+db/mariadb/
+out/
+target/
+*.iml
